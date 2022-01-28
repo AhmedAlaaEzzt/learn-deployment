@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learn-deployment/static/css/main.073c9b0a.css",
+    "main.js": "/learn-deployment/static/js/main.8ec000c7.js",
+    "static/js/787.e6fc9db0.chunk.js": "/learn-deployment/static/js/787.e6fc9db0.chunk.js",
+    "static/media/logo.svg": "/learn-deployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/learn-deployment/index.html",
+    "main.073c9b0a.css.map": "/learn-deployment/static/css/main.073c9b0a.css.map",
+    "main.8ec000c7.js.map": "/learn-deployment/static/js/main.8ec000c7.js.map",
+    "787.e6fc9db0.chunk.js.map": "/learn-deployment/static/js/787.e6fc9db0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ec000c7.js"
+  ]
+}
